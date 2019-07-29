@@ -7,6 +7,6 @@ Test *this*
 * some
 * words
 
-code ex 'console.writeline("Hello there");'
+code ex `console.writeline("Hello there");`
 
 [some Link](www.link.com)
